@@ -1,7 +1,7 @@
 # 🌱 Service Response Builder
 
 A lightweight utility for building **consistent API responses** in Spring Boot.  
-**ServiceResponseBuilder** class, Simplify your controllers with a clean and standard response format.
+with **ServiceResponseBuilder** class, Simplify your controllers with a clean and standard response format.
 
 ---
 
